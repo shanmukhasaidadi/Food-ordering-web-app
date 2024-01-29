@@ -14,5 +14,5 @@
 ## Installation
 
 1. Clone the repository:
-   npm install
+   npm i
    npm start
